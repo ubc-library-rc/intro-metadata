@@ -39,26 +39,25 @@ There are many types of metadata schemas, varying in audience, complexity, and s
 
 Some common schemas and their disciplines include (but are not limited to):
 
---------|-------------
-Dublin Core (DC) | Interdisciplinary (general, basic, and widely used)
-DataCite | Used for for creating DOIs (unique identifiers)
-Data Documentation Initiative (DDI) | Social, behavioral, and economic sciences
-Darwin Core (DwC) | Biological sciences
-ISO 19115 | International standard for geospatial information
-MAchine-Readable Cataloging (MARC) | Bibliographic and authority information
-Text Encoding Initiative (TEI) | Machine readable creative and interpretive representation of texts or manuscripts
-Music Encoding Initative (MEI) | Machine readable representation of music
+| Schema                              | Discipline(s)                                                 |
+|:-------------------------------------|:--------------------------------------------------------------|
+| [Dublin Core (DC)](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)                    | Interdisciplinary (general, basic, and widely used)          |
+| [DataCite](https://schema.datacite.org/)                            | Used for for creating DOIs (unique identifiers)              |
+| [Data Documentation Initiative (DDI)](http://www.ddialliance.org/) | Social, behavioral, and economic sciences                    |
+| [Darwin Core (DwC)](http://rs.tdwg.org/dwc/)                   | Biological sciences                                          |
+| [ISO 19115](http://www.iso.org/iso/catalogue_detail.htm?csnumber=53798)                           | International standard for geospatial information            |
+| [MAchine-Readable Cataloging (MARC)](https://www.loc.gov/marc/)  | Bibliographic and authority information                      |
+| [Text Encoding Initiative (TEI)](https://tei-c.org/)      | Representation of texts or manuscripts in digital humanities |
+| [Music Encoding Initative (MEI)](https://music-encoding.org/)      | Machine readable representation of music                     |
 
-Dublin Core example ([cIRcle @ UBC Library](http://hdl.handle.net/2429/76411))
+Dublin Core (DC) example ([cIRcle @ UBC Library](http://hdl.handle.net/2429/76411))
 
 <img src="images/DCmetadata_01.png" alt="cIRcle DC example 1" width="510"/>
-
 <img src="images/DCmetadata_02.png" alt="cIRcle DC example 2" width="510"/>
 
-* Here’s a screenshot from cIRcle (UBC’s digital repository), which uses Dublin Core (these screenshots are from the back-end repository platform so you can see the schema elements, but presents a bit differently publicly). It uses the Dublin Core schema with selected elements (some of which are repeatable, some of which use controlled vocabulary). The elements are flexible for the variety of content held by the repository, and the schema has a flat structure.
+* Here’s a screenshot from cIRcle (UBC’s digital repository), which uses Dublin Core (these screenshots are from the back-end repository platform so you can see the schema elements, but presents a bit differently publicly). It uses the Dublin Core schema with selected elements (some of which are repeatable, some of which use controlled vocabulary). The elements are flexible for the variety of content held by the repository.
 
-
-DDI example ([ICPSR](https://www.openicpsr.org/openicpsr/project/116562/version/V1/view;jsessionid=507E1914F18B7353C7EE776D4B248030))
+Data Documentation Initiative (DDI) example ([ICPSR](https://www.openicpsr.org/openicpsr/project/116562/version/V1/view;jsessionid=507E1914F18B7353C7EE776D4B248030))
 
 <img src="images/DDImetadata.png" alt="DDI example" width="510"/>
 
@@ -72,7 +71,7 @@ ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/
 
 ## More on metadata schemas and standards
 
-As we’ve seen with some examples, metadata schemas can be flat (e.g. Dublin Core) or more complex with hierarchies and repeatable fields (e.g. ISO 19115). This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given standard, or express it in a given file format.
+As we’ve seen with some examples, metadata schemas can be relatively simple (e.g. Dublin Core) or more complex with hierarchies and repeatable fields (e.g. ISO 19115). This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given standard, or express it in a given file format.
 
 Many databases and platforms allow for metadata export in other schemas and formats, which facilitate interoperability and sharing. So standardization is very important to permit this compatibility.
 * Crosswalking is the process of translating elements from one metadata schema to another. This facilitates and allows interoperability and harvesting across multiple platforms and systems, increasing research discovery and use. For example, crosswalking metadata facilitates record harvest from Canadian repositories to Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca).
