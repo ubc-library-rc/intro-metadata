@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadata Tools
-nav_order: 8
+nav_order: 7
 ---
 # Metadata Tools
 
