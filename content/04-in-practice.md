@@ -88,14 +88,17 @@ Schema can vary in their complexity:
 </tr>
 <tr>
 <td>
-* Accessible and easy to interpret
-* Interoperable - it can be applied to a wide range of resources and used in a wide range of settings
-* Easy and quick metadata creation
+<ul>
+<li>Accessible and easy to interpret</li>
+<li>Interoperable - it can be applied to a wide range of resources and used in a wide range of settings</li>
+<li>Easy and quick metadata creation</li>
+</ul>
 </td>
 <td>
-* Comprehensive description
-* Potentially for increased discoverability
-* Specific to subject area
+<ul><li>Comprehensive description</li>
+<li>Potentially for increased discoverability</li>
+<li>Specific to subject area</li>
+</ul>
 </td>
 </tr>
 </table>
