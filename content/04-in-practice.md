@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In Practice
+title: Metadata in Practice
 nav_order: 4
 ---
 # Metadata in practice
@@ -50,13 +50,24 @@ Text Encoding Initiative (TEI) | Machine readable creative and interpretive repr
 Music Encoding Initative (MEI) | Machine readable representation of music
 
 Dublin Core example ([cIRcle @ UBC Library](http://hdl.handle.net/2429/76411))
+
+<img src="content/images/DCmetadata_01.png" alt="cIRcle DC example 1" width="510"/>
+
+<img src="content/images/DCmetadata_02.png" alt="cIRcle DC example 2" width="510"/>
+
 * Here’s a screenshot from cIRcle (UBC’s digital repository), which uses Dublin Core (these screenshots are from the back-end repository platform so you can see the schema elements, but presents a bit differently publicly). It uses the Dublin Core schema with selected elements (some of which are repeatable, some of which use controlled vocabulary). The elements are flexible for the variety of content held by the repository, and the schema has a flat structure.
 
 
 DDI example ([ICPSR](https://www.openicpsr.org/openicpsr/project/116562/version/V1/view;jsessionid=507E1914F18B7353C7EE776D4B248030))
+
+<img src="content/images/DDImetadata.png" alt="DDI example" width="510"/>
+
 * Here’s a screenshot from the Inter-university Consortium for Political and Social Research (ICPSR), which is a data archive for the social sciences. It uses the DDI schema, expressed here in XML. You can see it’s a bit more complex with hierarchies and element attributes.
 
 ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/file/get/59f8af92e4b063d5d309f043?name=USGS_BBLEH_2012.xml&allowOpen=true))
+
+<img src="content/images/ISO19115metadata.png" alt="ISO 19115 example" width="510"/>
+
 * Here’s a screenshot from the U.S. Geological Survey. It uses ISO 19115, also expressed here in XML, and you can see it’s hierarchical as well. There are relationships between the elements that become apparent when you see how they are nested. Additionally, some elements can be repeated in different contexts.
 
 ## More on metadata schemas and standards
@@ -70,16 +81,24 @@ Many databases and platforms allow for metadata export in other schemas and form
 
 Schema can vary in their complexity:
 
-Benefits of basic standards (e.g. Dublin Core; DataCite)|
-Benefits of complex standards (e.g. DDI; ISO 19115)
-----------|---------
+<table>
+<tr>
+<th>Benefits of basic standards (e.g. Dublin Core; DataCite)</th>
+<th>Benefits of complex standards (e.g. DDI; ISO 19115)</th>
+</tr>
+<tr>
+<td>
 * Accessible and easy to interpret
 * Interoperable - it can be applied to a wide range of resources and used in a wide range of settings
 * Easy and quick metadata creation
-|
+</td>
+<td>
 * Comprehensive description
 * Potentially for increased discoverability
 * Specific to subject area
+</td>
+</tr>
+</table>
 
 Generally, you should be able to find a metadata schema that suits your research. Discuss with colleagues in your research area or those who are doing similar work; they may be able to guide you to preferred standards (and share any lessons learned). Keep the user’s perspective in mind - it should make sense for your intended users.
 

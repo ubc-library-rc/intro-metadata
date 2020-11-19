@@ -1,4 +1,4 @@
-I"()<h1 id="metadata-in-practice">Metadata in practice</h1>
+I"�)<h1 id="metadata-in-practice">Metadata in practice</h1>
 
 <p>It is good practice to structure metadata using standardized schemas, standards, and formats created and maintained by research communities.</p>
 
@@ -106,18 +106,24 @@
 
 <p>Schema can vary in their complexity:</p>
 
-<p>Benefits of basic standards (e.g. Dublin Core; DataCite)|
-Benefits of complex standards (e.g. DDI; ISO 19115)
-———-|———</p>
-<ul>
-  <li>Accessible and easy to interpret</li>
-  <li>Interoperable - it can be applied to a wide range of resources and used in a wide range of settings</li>
-  <li>Easy and quick metadata creation
-|</li>
-  <li>Comprehensive description</li>
-  <li>Potentially for increased discoverability</li>
-  <li>Specific to subject area</li>
-</ul>
+<table>
+<tr>
+<th>Benefits of basic standards (e.g. Dublin Core; DataCite)</th>
+<th>Benefits of complex standards (e.g. DDI; ISO 19115)</th>
+</tr>
+<tr>
+<td>
+* Accessible and easy to interpret
+* Interoperable - it can be applied to a wide range of resources and used in a wide range of settings
+* Easy and quick metadata creation
+</td>
+<td>
+* Comprehensive description
+* Potentially for increased discoverability
+* Specific to subject area
+</td>
+</tr>
+</table>
 
 <p>Generally, you should be able to find a metadata schema that suits your research. Discuss with colleagues in your research area or those who are doing similar work; they may be able to guide you to preferred standards (and share any lessons learned). Keep the user’s perspective in mind - it should make sense for your intended users.</p>
 
@@ -133,9 +139,12 @@ Benefits of complex standards (e.g. DDI; ISO 19115)
   <li><a href="http://circle.ubc.ca/">cIRcle, UBC’s digital repository</a>: UBC’s open access digital repository for published and unpublished material created by the UBC community and its partners.</li>
 </ul>
 
+<p>Other units at the Library may be consulted, depending on the needs and nature of the project.</p>
+
 <h2 id="resources">Resources</h2>
 <ul>
-  <li>RDA metadata directory (includes descriptions, implementation tools, and use cases) <a href="http://rd-alliance.github.io/metadata-directory/">http://rd-alliance.github.io/metadata-directory/</a></li>
-  <li>Metadata standards visualisation <a href="http://jennriley.com/metadatamap/seeingstandards.pdf">http://jennriley.com/metadatamap/seeingstandards.pdf</a></li>
+  <li><a href="https://www.dcc.ac.uk/guidance/standards/metadata">Digital Curation Centre (DCC)’s list of metadata standards</a></li>
+  <li><a href="http://rd-alliance.github.io/metadata-directory/">RDA Metadata Standards Directory Working Group (includes descriptions, implementation tools, and use cases)</a></li>
+  <li><a href="http://jennriley.com/metadatamap/seeingstandards.pdf">Seeing Standards: A Visualization of the Metadata Universe</a></li>
 </ul>
 :ET

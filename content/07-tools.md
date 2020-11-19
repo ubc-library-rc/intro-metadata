@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tools
+title: Metadata Tools
 nav_order: 8
 ---
-# Tools
+# Metadata Tools
 
 Going back to different kinds of metadata. There are many tools that support metadata creation, management, and clean-up. Different forms of metadata creation and cleanup apply for different use cases. Some tools focus on the application of a metadata schema to a dataset and are arranged around the schema, some are focused on cleaning and articulating the nature of your data. Whether a tool is “metadata” relevant is vague as well. Metadata comes in many forms, is used to support many use cases, and the diversity of tools that may be useful to your work reflects this.
 
