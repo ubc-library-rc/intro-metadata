@@ -9,7 +9,7 @@ What is metadata? Metadata is information that describes a resource, in other wo
 
 Why is metadata important? It provides information for the user of the resource.
 
-> “It enhances the usefulness of your data or information by providing context—the who, what, when, where, why, and how that helps to discover, identify, interpret, and interact with content.” ([Metadata & Discovery @ Pitt](https://pitt.libguides.com/metadatadiscovery/metadata))
+<blockquote>“It enhances the usefulness of your data or information by providing context—the who, what, when, where, why, and how that helps to discover, identify, interpret, and interact with content.” ([Metadata & Discovery @ Pitt](https://pitt.libguides.com/metadatadiscovery/metadata))</blockquote>
 
 In research, metadata allows for better discoverability, (re)usability, and sharing of research material - especially data.
 
