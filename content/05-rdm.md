@@ -14,7 +14,7 @@ There are a number of common open source repository platforms, including Dataver
 
 Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca) aggregates data from different repositories across Canada
 
-For more information explore [UBC Library: Research Data Management](https://researchdata.library.ubc.ca).
+For more information, explore [UBC Library: Research Data Management](https://researchdata.library.ubc.ca).
 {: .note}
 
 Why is metadata important for research data? Metadata play a large role in the facilitation of FAIR Principles.
@@ -34,6 +34,6 @@ Best practices for readme files
 * If you are creating multiple readme files, use consistent formatting
 * Use date format YYYY-MM-DD or YYYY-MM-DDThh:mm:ss
 * Use keywords appropriate to your discipline - often controlled vocabularies or thesauri are available for discipline specific keywords
-* [Readme guidance from UBC](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf)
 
-Cornell University [content guidelines](https://data.research.cornell.edu/content/readme) and [readme template](https://cornell.app.box.com/v/ReadmeTemplate)
+For more information, explore [UBC readme guidance](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf) and [Cornell University readme template](https://cornell.app.box.com/v/ReadmeTemplate).
+{: .note}
