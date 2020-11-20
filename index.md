@@ -5,7 +5,7 @@ nav_order: 1
 ---
 ## Note: this workshop is in development and not yet complete.
 
-## Metadat Basics: Describing Research Data
+## Metadata Basics: Describing Research Data
 
 Metadata is information that describes a resource (i.e. data about data). When used effectively, metadata helps with usability, discovery, and storage of research. After completing this workshop, participants will be able to articulate what metadata is and how it is used, select a metadata standard that best suits their project and discipline, and select an appropriate tool for creating and maintaining metadata. Case studies and examples will be used to demonstrate metadata application and impact.
 
