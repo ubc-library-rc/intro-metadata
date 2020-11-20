@@ -10,10 +10,10 @@ It is good practice to structure metadata using standardized schemas, standards,
 >“In order to be useful, metadata needs to be standardized. This includes agreeing on language, spelling, date format, etc.” ([UNC Metadata for Data Management](https://guides.lib.unc.edu/metadata/standards))
 
 Getting the metadata schema and standards within set-up at the beginning of the project is very important in ensuring future usability. You should also consider the type of resources you’re creating, and what can be understood from them (or not).
-* If a textual resource has all the information on it (e.g. names, dates, etc.), the metadata may be able to be created by the repository from the resources.
-* If the content is non-textual (e.g. images, multimedia, datasets), not in the language of the repository, etc. there's not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted.
+* If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource or relatively well. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resources.
+* If the content is non-textual or requires additional context (e.g. images, multimedia, datasets), it can be difficult for a user to understand and use the resource.  If you’re depositing to a repository, there’s not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted. Other aspects, such as language of the resource vs. the primary language of the repository, should also be considered.
 
-Sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate standard exists. It also provides instructions and context to understand and use resources such as datasets.
+Additionally, sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate standard exists. It also provides instructions and context to understand and use resources such as datasets.
 
 Metadata can be generated as part of an automated process, or be created manually. Research projects often involve a mix of both, depending on the content and destined platforms for deposit.
 
