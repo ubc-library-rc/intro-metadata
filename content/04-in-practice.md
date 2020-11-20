@@ -42,7 +42,7 @@ Some common schemas and their disciplines include (but are not limited to):
 | Schema                              | Discipline(s)                                                 |
 |:-------------------------------------|:--------------------------------------------------------------|
 | [Dublin Core (DC)](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)                    | Interdisciplinary (general, basic, and widely used)          |
-| [DataCite](https://schema.datacite.org/)                            | Used for for creating DOIs (unique identifiers)              |
+| [DataCite](https://schema.datacite.org/)                            | Used for creating DOIs (unique identifiers)              |
 | [Data Documentation Initiative (DDI)](http://www.ddialliance.org/) | Social, behavioral, and economic sciences                    |
 | [Darwin Core (DwC)](http://rs.tdwg.org/dwc/)                   | Biological sciences                                          |
 | [ISO 19115](http://www.iso.org/iso/catalogue_detail.htm?csnumber=53798)                           | International standard for geospatial information            |
