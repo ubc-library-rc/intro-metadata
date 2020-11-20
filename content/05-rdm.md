@@ -21,7 +21,7 @@ Why is metadata important for research data? Metadata play a large role in the f
 
 FAIR: Findable, Accessible, Interoperable, Reusable
 
-“FAIR Guiding Principles for scientific data management and stewardship” - published in Scientific Data, 2016. [www.go-fair.org/fair-principles](https://www.go-fair.org/fair-principles/)
+“FAIR Guiding Principles for scientific data management and stewardship” - published in *Scientific Data*, 2016. [www.go-fair.org/fair-principles](https://www.go-fair.org/fair-principles/)
 
 ## Readme files: a typical starting point for metadata creation
 
