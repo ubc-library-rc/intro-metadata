@@ -27,7 +27,7 @@ FAIR: Findable, Accessible, Interoperable, Reusable
 
 In research, readme files are often a starting point for creating basic metadata. In order for the metadata to be effective for interpretation, there are best practices to keep in mind.
 
-Best practices for readme files (illustrative; not comprehensive)
+Best practices for readme files (not comprehensive)
 * Create one file for each logical grouping of data - could be a single data file, or a dataset with multiple files that are related
 * Use a plain text file
 * If you are creating multiple readme files, use consistent formatting
