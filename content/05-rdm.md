@@ -37,4 +37,5 @@ Best practices for readme files
 * [Readme guidance from UBC](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf)
 
 Content guidelines: [https://data.research.cornell.edu/content/readme](https://data.research.cornell.edu/content/readme)
+
 Readme template: [https://cornell.app.box.com/v/ReadmeTemplate](https://cornell.app.box.com/v/ReadmeTemplate)
