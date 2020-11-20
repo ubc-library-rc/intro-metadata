@@ -47,7 +47,7 @@ Some common schemas and their disciplines include (but are not limited to):
 | [Darwin Core (DwC)](http://rs.tdwg.org/dwc/)                   | Biological sciences                                          |
 | [ISO 19115](http://www.iso.org/iso/catalogue_detail.htm?csnumber=53798)                           | International standard for geospatial information            |
 | [MAchine-Readable Cataloging (MARC)](https://www.loc.gov/marc/)  | Bibliographic and authority information                      |
-| [Text Encoding Initiative (TEI)](https://tei-c.org/)      | Representation of texts or manuscripts in digital humanities |
+| [Text Encoding Initiative (TEI)](https://tei-c.org/)      | Machine readable creative and interpretive representation of texts or manuscripts |
 | [Music Encoding Initative (MEI)](https://music-encoding.org/)      | Machine readable representation of music                     |
 
 Dublin Core (DC) example ([cIRcle @ UBC Library](http://hdl.handle.net/2429/76411))
