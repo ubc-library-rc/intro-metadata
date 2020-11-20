@@ -14,7 +14,7 @@ There are a number of common open source repository platforms, including Dataver
 
 Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca) aggregates data from different repositories across Canada
 
-For more information explore [RDM at UBC](https://researchdata.library.ubc.ca).
+For more information explore [UBC Library: Research Data Management](https://researchdata.library.ubc.ca).
 {: .note}
 
 Why is metadata important for research data? Metadata play a large role in the facilitation of FAIR Principles.
