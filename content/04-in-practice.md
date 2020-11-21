@@ -30,9 +30,9 @@ Standards provide guidance in how to populate elements within a schema.
 * How should the information be formatted (e.g. dates, names)?
 * Are there standardized terms (e.g. controlled vocabulary, thesauri) that should be used to populate an element?
 
-Schemas used for databases or projects often adapt one or more schemas and/or standards, and then create a custom schema based on those.
+Research projects or databases can adapt one or more schemas and/or standards, and then create a custom schema based on those chosen.
 
-Custom elements can be necessary to meet the needs of the project, though one must understand that it may not be able to translate in that way in another platform/system (e.g. repository deposit).
+Custom elements can be necessary to meet the needs of the research project, though one must understand that the project schema may not be able to translate in that exact way in another platform/system (e.g. repository deposit).
 {: .note}
 
 There are many types of metadata schemas, varying in audience, complexity, and specificity (disciplinary vs. interdisciplinary). Generic schemas may be easier to use and thus more widely adopted, but can lack coverage for specific types of information. Some disciplines have established metadata standards with specific vocabulary and structure to meet the needs of that research area. In addition, some data repositories have their own schema and standards.
@@ -55,13 +55,13 @@ Dublin Core (DC) example ([cIRcle @ UBC Library](http://hdl.handle.net/2429/7641
 <img src="images/DCmetadata_01.png" alt="cIRcle DC example 1" width="510"/>
 <img src="images/DCmetadata_02.png" alt="cIRcle DC example 2" width="510"/>
 
-* Here’s a screenshot from cIRcle (UBC’s digital repository), which uses Dublin Core (these screenshots are from the back-end repository platform so you can see the schema elements, but presents a bit differently publicly). It uses the Dublin Core schema with selected elements (some of which are repeatable, some of which use controlled vocabulary). The elements are flexible for the variety of content held by the repository.
+* Here’s a screenshot from cIRcle (UBC’s digital repository; these screenshots are from the back-end repository platform so you can see the schema elements, but presents a bit differently publicly). It uses the Dublin Core schema with selected elements (some of which are repeatable, some of which use controlled vocabulary). The elements are flexible for the variety of content held by the repository.
 
 Data Documentation Initiative (DDI) example ([ICPSR](https://www.openicpsr.org/openicpsr/project/116562/version/V1/view;jsessionid=507E1914F18B7353C7EE776D4B248030))
 
 <img src="images/DDImetadata.png" alt="DDI example" width="510"/>
 
-* Here’s a screenshot from the Inter-university Consortium for Political and Social Research (ICPSR), which is a data archive for the social sciences. It uses the DDI schema, expressed here in XML. You can see it’s a bit more complex with hierarchies and element attributes.
+* Here’s a screenshot from the Inter-university Consortium for Political and Social Research (ICPSR), which is a data archive for the social sciences. It uses the DDI schema, expressed here in XML (XML is commonly used to store and share metadata, because it’s both human and machine readable). It’s a bit more complex with hierarchies and element attributes.
 
 ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/file/get/59f8af92e4b063d5d309f043?name=USGS_BBLEH_2012.xml&allowOpen=true))
 
@@ -76,7 +76,7 @@ As we’ve seen with some examples, metadata schemas can be relatively simple (e
 Many databases and platforms allow for metadata export in other schemas and formats, which facilitate interoperability and sharing. So standardization is very important to permit this compatibility.
 * Crosswalking is the process of translating elements from one metadata schema to another. This facilitates and allows interoperability and harvesting across multiple platforms and systems, increasing research discovery and use. For example, crosswalking metadata facilitates record harvest from Canadian repositories to Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca).
 
-## Which metadata schema is right for my project or resource?
+## Which metadata schema is right for my project or resources?
 
 Schema can vary in their complexity:
 
@@ -89,7 +89,7 @@ Schema can vary in their complexity:
 <td>
 <ul>
 <li>Accessible and easy to interpret</li>
-<li>Interoperable - it can be applied to a wide range of resources and used in a wide range of settings</li>
+<li>Interoperable (can be applied to a wide range of resources and used in a wide range of settings)</li>
 <li>Easy and quick metadata creation</li>
 </ul>
 </td>
@@ -114,7 +114,7 @@ If you’re planning to deposit your research to a UBC Library repository, it’
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
 
-Other units at the Library may be consulted, depending on the needs and nature of the project.
+Other units at the Library may be consulted, depending on the needs and nature of the project. Your [Subject Librarian] (https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
 
 ## Resources
 * [Digital Curation Centre (DCC)’s list of metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
