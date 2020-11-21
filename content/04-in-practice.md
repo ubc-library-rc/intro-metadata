@@ -114,7 +114,7 @@ If you’re planning to deposit your research to a UBC Library repository, it’
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
 
-Other units at the Library may be consulted, depending on the needs and nature of the project. Your [Subject Librarian] (https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
+Other units at the Library may be consulted, depending on the needs and nature of the project. Your [Subject Librarian](https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
 
 ## Resources
 * [Digital Curation Centre (DCC)’s list of metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
