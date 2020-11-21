@@ -89,7 +89,7 @@ Schema can vary in their complexity:
 <td>
 <ul>
 <li>Accessible and easy to interpret</li>
-<li>Interoperable (can be applied to a wide range of resources <br>and used in a wide range of settings)</li>
+<li>Interoperable (can be applied to a wide range of resources and used in a wide range of settings)</li>
 <li>Easy and quick metadata creation</li>
 </ul>
 </td>
