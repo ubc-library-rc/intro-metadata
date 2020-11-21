@@ -13,7 +13,7 @@ Getting the metadata schema and standards within set-up at the beginning of the 
 * If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource or relatively well. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resources.
 * If the content is non-textual or requires additional context (e.g. images, multimedia, datasets), it can be difficult for a user to understand and use the resource.  If you’re depositing to a repository, there’s not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted. Other aspects, such as language of the resource vs. the primary language of the repository, should also be considered.
 
-Additionally, sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate standard exists. It also provides instructions and context to understand and use resources such as datasets.
+Additionally, sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate schema/standard exists. It also provides instructions and context to understand and use resources such as datasets.
 
 Metadata can be generated as part of an automated process, or be created manually. Research projects often involve a mix of both, depending on the content and destined platforms for deposit.
 
@@ -71,7 +71,7 @@ ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/
 
 ## More on metadata schemas and standards
 
-As we’ve seen with some examples, metadata schemas can be relatively simple (e.g. Dublin Core) or more complex with hierarchies and repeatable fields (e.g. ISO 19115). This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given standard, or express it in a given file format.
+As we’ve seen with some examples, metadata schemas can be relatively simple or more complex with hierarchies and repeatable elements. This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given schema/standard, or express it in a given file format.
 
 Many databases and platforms allow for metadata export in other schemas and formats, which facilitate interoperability and sharing. So standardization is very important to permit this compatibility.
 * Crosswalking is the process of translating elements from one metadata schema to another. This facilitates and allows interoperability and harvesting across multiple platforms and systems, increasing research discovery and use. For example, crosswalking metadata facilitates record harvest from Canadian repositories to Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca).
@@ -82,8 +82,8 @@ Schema can vary in their complexity:
 
 <table>
 <tr>
-<th>Benefits of basic standards (e.g. Dublin Core; DataCite)</th>
-<th>Benefits of complex standards (e.g. DDI; ISO 19115)</th>
+<th>Benefits of basic schema (e.g. Dublin Core; DataCite)</th>
+<th>Benefits of complex schema (e.g. DDI; ISO 19115)</th>
 </tr>
 <tr>
 <td>
