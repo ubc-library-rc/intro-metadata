@@ -10,7 +10,7 @@ It is good practice to structure metadata using standardized schemas, standards,
 >“In order to be useful, metadata needs to be standardized. This includes agreeing on language, spelling, date format, etc.” ([UNC Metadata for Data Management](https://guides.lib.unc.edu/metadata/standards))
 
 Getting the metadata schema and standards within set-up at the beginning of the project is very important in ensuring future usability. You should also consider the type of resources you’re creating, and what can be understood from them (or not).
-* If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource or relatively well. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resources.
+* If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource relatively well. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resource.
 * If the content is non-textual or requires additional context (e.g. images, multimedia, datasets), it can be difficult for a user to understand and use the resource.  If you’re depositing to a repository, there’s not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted. Other aspects, such as language of the resource vs. the primary language of the repository, should also be considered.
 
 Additionally, sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate schema/standard exists. It also provides instructions and context to understand and use resources such as datasets.
@@ -32,7 +32,7 @@ Standards provide guidance in how to populate elements within a schema.
 
 Research projects or databases can adapt one or more schemas and/or standards, and then create a custom schema based on those chosen.
 
-Custom elements can be necessary to meet the needs of the research project, though one must understand that the project schema may not be able to translate in that exact way in another platform/system (e.g. repository deposit).
+Custom elements can be necessary to meet the needs of the research project, though one must understand that the project schema may not be able to be translated in that exact way in another platform or system (e.g. repository deposit).
 {: .note}
 
 There are many types of metadata schemas, varying in audience, complexity, and specificity (disciplinary vs. interdisciplinary). Generic schemas may be easier to use and thus more widely adopted, but can lack coverage for specific types of information. Some disciplines have established metadata standards with specific vocabulary and structure to meet the needs of that research area. In addition, some data repositories have their own schema and standards.
@@ -73,7 +73,7 @@ ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/
 
 As we’ve seen with some examples, metadata schemas can be relatively simple or more complex with hierarchies and repeatable elements. This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given schema/standard, or express it in a given file format.
 
-Many databases and platforms allow for metadata export in other schemas and formats, which facilitate interoperability and sharing. So standardization is very important to permit this compatibility.
+Many databases and platforms allow for metadata export in other schemas and formats, which facilitates interoperability and sharing. So standardization is very important to permit this compatibility.
 * Crosswalking is the process of translating elements from one metadata schema to another. This facilitates and allows interoperability and harvesting across multiple platforms and systems, increasing research discovery and use. For example, crosswalking metadata facilitates record harvest from Canadian repositories to Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca).
 
 ## Which metadata schema is right for my project or resources?
@@ -114,7 +114,7 @@ If you’re planning to deposit your research to a UBC Library repository, it’
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
 
-Other units at the Library may be consulted, depending on the needs and nature of the project. Your [Subject Librarian](https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
+Other units at the Library or across UBC may be consulted, depending on the needs and nature of the project. Your [Subject Librarian](https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
 
 ## Resources
 * [Digital Curation Centre (DCC)’s list of metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
