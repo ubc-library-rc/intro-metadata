@@ -9,15 +9,15 @@ It is good practice to structure metadata using standardized schemas, standards,
 
 >“In order to be useful, metadata needs to be standardized. This includes agreeing on language, spelling, date format, etc.” ([UNC Metadata for Data Management](https://guides.lib.unc.edu/metadata/standards))
 
-Getting the metadata schema and standards within set-up at the beginning of the project is very important in ensuring future usability. You should also consider the type of resources you’re creating, and what can be understood from them (or not).
-* If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource relatively well. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resource.
-* If the content is non-textual or requires additional context (e.g. images, multimedia, datasets), it can be difficult for a user to understand and use the resource.  If you’re depositing to a repository, there’s not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted. Other aspects, such as language of the resource vs. the primary language of the repository, should also be considered.
+Getting the metadata schema and standards within set-up at the beginning of the project is very important in ensuring future discovery and usability. You should also consider the type of resources you’re creating, and what can be understood from them (or not). An example is the usability of textual vs. non-textual resources:
+* If a textual resource has all or most the information on or within it (e.g. names, dates, etc.), a user may be able to understand the resource relatively well in itself. If you’re depositing the research to a repository, it’s also more likely that some metadata can be created from this information within the resource.
+* If the content is non-textual or requires additional context (e.g. images, multimedia, datasets), it can be difficult for a user to understand and use the resource in itself.  If you’re depositing to a repository, there’s not much the repository can do to create that metadata, and as a result the content may not be usable or cannot be accepted. Other aspects, such as language of the resource vs. the primary language of the repository, should also be considered in regards to metadata creation.
 
 Additionally, sometimes it makes sense to create free text “readme” style metadata. In the research context, readme files are often used to document information before being transferred to a more standardized format, or if no appropriate schema/standard exists. It also provides instructions and context to understand and use resources such as datasets.
 
 Metadata can be generated as part of an automated process, or be created manually. Research projects often involve a mix of both, depending on the content and destined platforms for deposit.
 
-It’s highly recommended that at the beginning of your research project, you think about where your research will be stored and made accessible. If it’s destined for something like a repository, there are considerations that should be taken in both content and metadata creation. The purpose of the research can help determine what metadata is necessary for understanding and reproducibility.
+It’s highly recommended that at the beginning of your research project, you think about where your research will be stored and made accessible. If it’s destined for something like a repository, there are considerations that should be taken in both content and metadata creation. The purpose of the research can help determine what metadata is necessary for understanding, using, and reproducing the work.
 
 ## Metadata schemas and standards
 What are metadata schemas and standards? Communities create, manage, and use different types of information and resources in different ways. Within and across communities, there needs to be some consistency in order for the metadata to be understandable (by both people and machines) ([University of Texas Libraries](https://guides.lib.utexas.edu/metadata-basics/standards)).
@@ -109,7 +109,7 @@ Having a metadata schema with standards set-up at the beginning of the project, 
 ## More on metadata in practice
 It’s important to consider the *accuracy*, *completeness*, *consistency*, and *interoperability* of your metadata, all of which will affect its future discovery and use.
 
-If you’re planning to deposit your research to a UBC Library repository, it’s highly recommended you connect with the unit at the beginning of your project, so we can provide guidance in schema, standards, and preparing your research for submission.
+If you’re planning to deposit your research to a UBC Library repository, it’s highly recommended you connect with the unit at the beginning of your project, so we can provide guidance in schemas, standards, and preparation of your research for submission.
 
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
