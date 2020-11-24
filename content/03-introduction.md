@@ -51,7 +51,7 @@ Different types of metadata
 * *Structural* metadata is information about the composition of the resource (file format, relation to other data, etc.)
 * *Administrative* metadata is information about how to manage the resource (software requirements, copyright, etc.)
 
-Security and privacy is an important consideration. Before releasing data or metadata (publicly or in a limited way), you should consider what should be included, how it could be used, and who will have access to the data. Private or personal information (e.g. contact information, identifiers) may need review and removal/redaction before being made available. See resources from Arts ISIT](https://isit.arts.ubc.ca/personally-identifiable-information/) and the [Office of the University Counsel](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/useful-resources/) for more information about what constitutes personally identifiable information and protection of privacy.
+Security and privacy is an important consideration. Before releasing data or metadata (publicly or in a limited way), you should consider what should be included, how it could be used, and who will have access to the data. Private or personal information (e.g. contact information, identifiers) may need review and removal/redaction before being made available. See resources from [Arts ISIT](https://isit.arts.ubc.ca/personally-identifiable-information/) and the [Office of the University Counsel](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/useful-resources/) for more information about what constitutes personally identifiable information and protection of privacy.
 
 # Activity: Basic metadata creation
 

@@ -72,7 +72,7 @@ For example, a dataset might have issues with any of the following:
 
 It is particularly important to be consistent with the terms and format used in metadata because of the way in which metadata fields are used to support search, filtering, and other structures that allow your data to be discoverable and useable by others.
 
-Simple fixes for common problems might involve using a different tool to open your data. For example opening a .csv (comma separated values) document in Excel might result in some odd data typing (eg. dates treated as numbers). Opening the same file in LibreOffice might be more effective as LibreOffice is less likely to try to make a best guess at date formatting for you. Similarly a tool might not be able to recognize a type of letter or accent in some of your data and saving from that tool might introduce unicode errors into your data.
+Simple fixes for common problems might involve using a different tool to open your data. For example opening a .csv (comma separated values) document in Excel might result in some odd data typing (eg. dates treated as numbers). Opening the same file in LibreOffice might be more effective as LibreOffice is less likely to try to make a best guess at date formatting for you. Similarly a tool might not be able to recognise a type of letter or accent in some of your data and saving from that tool might introduce unicode errors into your data.
 
 Generally speaking when working with metadata it is important to work with open and flat formats such as text files (.txt, .csv, .tsv, .xml, .html) and use tools appropriate for working with those file formats.
 
@@ -89,7 +89,7 @@ OpenRefine: an open source software application originally developed by Google t
 
 One benefit of Open Refine is that you can do API calls directly from it through the URL function when adding data. Open Refine is also able to read JSON as well as text content copy-pasted into the clipboard function which is one of the many ways that it goes beyond traditional spreadsheet software.
 
-Learn more about Open Refine and what you can do with it: https://librarycarpentry.org/lc-open-refine/.
+Learn more about Open Refine and what you can do with it: [https://librarycarpentry.org/lc-open-refine/](https://librarycarpentry.org/lc-open-refine/).
 {: .note}
 
 ### Programmatic manipulation of data
