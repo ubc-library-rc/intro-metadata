@@ -23,11 +23,11 @@ Metadata is used for searching, browsing, contextual linking, aggregation, acces
 
 How do we encounter metadata in our daily environment? Metadata is all around us. Think about streaming an album - the user is aided by the metadata associated with it. The title of the album, title of the artist, track titles, release year, etc.
 
-<img src="images/AppleMusicExample.png" alt="Apple Music example" width="510"/>
+<div style="width:image width px; font-size:75%; text-align:center;"><img src="images/AppleMusicExample.png" alt="Apple Music example" width="510"/><br>Image captured from Apple Music.</div>
 
 Online shopping is another example of an experience that relies on metadata: material, colour, size, etc.
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/HMexample.png" alt="H&M example" width="510" style="padding-bottom:0.5em;" /><br>test caption</div>
+<div style="width:image width px; font-size:75%; text-align:center;"><img src="images/HMexample.png" alt="H&M example" width="510" style="padding-bottom:0.5em;" /><br>Image captured from <a href="www2.hm.com">www2.hm.com</a>.”</div>
 
 Examples of metadata typically found in the research context: Citation information, contact information, geographic locations, units of measurement, instruments and protocols, survey tool details, version information, etc.
 
@@ -35,7 +35,7 @@ Metadata can also be subject-specific, e.g. biological organism information, ast
 
 UBC Library's [Open Collections](https://open.library.ubc.ca/) includes digital photos, books, newspapers, maps, videos, theses, research articles, and more, reflecting the research interests of the UBC community and beyond. All of these resources require metadata description to facilitate usage
 
-<img src="images/OCExample.png" alt="Open Collections example" width="510"/>
+<div style="width:image width px; font-size:75%; text-align:center;"><img src="images/OCExample.png" alt="Open Collections example" width="510"/><br>Image captured from <a href="https://open.library.ubc.ca/">https://open.library.ubc.ca/</a>.</div>
 
 How is metadata organized?
 * *Elements/fields:* basic building blocks of metadata description (e.g. title, abstract, author)
