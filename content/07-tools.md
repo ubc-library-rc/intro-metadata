@@ -11,13 +11,12 @@ For example, metadata creation in the academy might look like a research group i
 
 Metadata outside of the academy might be structured to support how information is presented on a website. This could look like a filter that helps you locate a type of item while shopping online or a timestamp on a blog post.
 
-Regardless of what kind of metadata your project is engaging with it needs to be clean and well organized. Tools for working with and cleaning metadata can help you attaining that.
+Regardless of what kind of metadata your project is engaging with it needs to be clean and well organised. Tools for working with and cleaning metadata can help you attaining that.
 
 ## Creating basic metadata
 Your best tool is a strong plan and policies around the creation of metadata that your team will follow. This begins with a well structures ReadMe file (a text file that describes your data and reasoning behind how it is organized) and a likely a codebook (a file that defines the fields that you are collecting). In a ReadMe file you might indicate which information is coming from tools that you are using and which is being collected manually. You may also want to note any important cleaning steps you took to augment the data collected and where a viewer of your work could learn more about your process.
 
-While aimed at software development, the “[make a readme resource](https://www.makeareadme.com/)” is useful to explore
-https://www.makeareadme.com/ and [readme guidance from UBC](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf)
+While aimed at software development, the “[make a readme resource](https://www.makeareadme.com/)” is useful to explore as well as [readme guidance from UBC](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf).
 {: .note}
 
 ## Manual metadata creation
@@ -32,14 +31,14 @@ Common functions that are useful to have in your back pocket are:
 * “CROSSTAB”which shows the relationship between variables
 
 For a comprehensive list of functions and how they work:
-* Excel docs
-* LibreOffice docs
-* Google Sheet docs
+* [Excel docs](https://support.microsoft.com/en-us/office/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+* [LibreOffice docs](https://help.libreoffice.org/Calc/Functions_by_Category)
+* [Google Sheet docs](https://support.google.com/docs/table/25273?hl=en)
 
-Note that the three spreadsheet tools listed above all recognize similar functions but the exact structure might vary.
+Note that the three spreadsheet tools listed above all recognise similar functions but the exact structure might vary.
 {: .note}
 
-Beyond spreadsheet software the humble text editor is a useful tool to have in your arsenal. A good text editor that can work across multiple operating systems and is free to use is [Atom](https://atom.io/). Other good options are Sublime (there is a free variant) which is also operating system agnostic, Notepad++ for PCs, and TextWrangler for Macs. Most modern text editors have a built in Regex (sometimes called GREP) function in the find and replace which can be really helpful for normalizing spelling or formatting across a text file. The find and replace feature in most text editors can also accept unicode characters which is helpful when editing based on a specific type of character.
+Beyond spreadsheet software the humble text editor is a useful tool to have in your arsenal. A good text editor that can work across multiple operating systems and is free to use is [Atom](https://atom.io/). Other good options are Sublime (there is a free variant) which is also operating system agnostic, Notepad++ for PCs, and TextWrangler for Macs. Most modern text editors have a built in Regex (sometimes called GREP) function in the find and replace which can be really helpful for normalising spelling or formatting across a text file. The find and replace feature in most text editors can also accept unicode characters which is helpful when editing based on a specific type of character.
 
 Sometimes the metadata we are working with is in a format that might be a bit challenging to open or edit. This is particularly the case when metadata is automatically generated into something like XML (extensible markup language) which is both machine and human readable. XML is an example of a format that benefits from a type specific editor such as Oxygen which allows you to manipulate XML with a bit more control.
 
