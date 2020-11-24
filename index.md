@@ -28,3 +28,7 @@ At the end of this workshop, participants will be able to:
 | 0:45 | Metadata in RDM |
 | 1:00 | Metadata tools |
 | 1:15 | Discussion and wrap-up |
+
+## Resources
+
+* [Session slides](https://docs.google.com/presentation/d/1e5c4Gi3P4cezZcEsT_wzoNmuN13jTKUIceMaJKfdl98/edit?usp=sharing)
