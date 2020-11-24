@@ -49,7 +49,20 @@ Many standards maintain their own list of tools to aide implementation. To find 
 
 To find a schema-specific metadata tool relevant to your work, take a look at this helpful comparison chart from Stanford: https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/metadata-tools-comparison
 
-## Cleaning metadata
+### Editing automated embedded metadata
+
+When you take a photo with your phone and open it on your computer you can already see a lot of information about it by default. Things like location, the time it was taken, and which device took it. This is Exif metadata which is an example of automatically assigned metadata. It is usually structured along standards (eg. ISO time and date standards) and persistent in the image file regardless of where you move it.
+
+<img src="images/embedded-metadata.png" alt="Embedded metadata example" width="510"/>
+
+That persistency doesn’t mean that you can’t edit it though. For our image example, Exif editors can change the time and date, providing false information. Generally speaking automatically generated metadata has a utility for later search functions and should be left alone. That said, one excellent reason that you may want to remove embedded automated metadata is over privacy concerns.
+
+A great tool for working with Exif and other forms of metadata that are automatically embedded into files is [Exiftool](https://exiftool.org/).
+{: .note}
+
+## A note on cleaning data
+Metadata is a type of data so many workflows that support us in
+
 When working with any kind of data, particularly data that is manually entered, you may encounter issues with it that require cleaning.
 
 For example, a dataset might have issues with any of the following:
@@ -80,11 +93,9 @@ One benefit of Open Refine is that you can do API calls directly from it through
 Learn more about Open Refine and what you can do with it: https://librarycarpentry.org/lc-open-refine/.
 {: .note}
 
-### Editing automated embedded metadata
+### Programmatic manipulation of data
 
-When you take a photo with your phone and open it on your computer you can already see a lot of information about it by default. Things like location, the time it was taken, and which device took it. This is Exif metadata which is an example of automatically assigned metadata. It is usually structured along standards (eg. ISO time and date standards) and persistent in the image file regardless of where you move it.
+R and Python and both programming languages with a suite of data cleaning and manipulation tools at your disposal. While this is beyond the scope of this workshop, these are useful tools to be aware of.
 
-That persistency doesn’t mean that you can’t edit it though. For our image example, Exif editors can change the time and date, providing false information. Generally speaking automatically generated metadata has a utility for later search functions and should be left alone.
-
-A great tool for working with Exif and other forms of metadata that are automatically embedded into files is [Exiftool](https://exiftool.org/).
+Learn more about the [R Tidyverse](https://www.tidyverse.org/) and [Python Pandas](https://pandas.pydata.org/).
 {: .note}
