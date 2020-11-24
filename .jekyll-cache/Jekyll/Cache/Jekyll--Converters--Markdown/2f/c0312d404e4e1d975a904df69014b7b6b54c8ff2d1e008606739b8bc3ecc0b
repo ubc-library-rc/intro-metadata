@@ -1,6 +1,4 @@
-I"n<h2 id="note-this-workshop-is-in-development-and-not-yet-complete">Note: this workshop is in development and not yet complete.</h2>
-
-<h2 id="introduction-to-metadata">Introduction to Metadata</h2>
+I"<h2 id="metadata-basics-describing-research-data">Metadata Basics: Describing Research Data</h2>
 
 <p>Metadata is information that describes a resource (i.e. data about data). When used effectively, metadata helps with usability, discovery, and storage of research. After completing this workshop, participants will be able to articulate what metadata is and how it is used, select a metadata standard that best suits their project and discipline, and select an appropriate tool for creating and maintaining metadata. Case studies and examples will be used to demonstrate metadata application and impact.</p>
 
@@ -41,10 +39,10 @@
     </tr>
     <tr>
       <td>1:00</td>
-      <td> </td>
+      <td>Metadata tools</td>
     </tr>
     <tr>
-      <td>1:00</td>
+      <td>1:15</td>
       <td>Discussion and wrap-up</td>
     </tr>
   </tbody>

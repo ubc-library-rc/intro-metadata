@@ -27,7 +27,7 @@ How do we encounter metadata in our daily environment? Metadata is all around us
 
 Online shopping is another example of an experience that relies on metadata: material, colour, size, etc.
 
-<img src="images/HMexample.png" alt="H&M example" width="510"/>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/HMexample.png" alt="H&M example" width="510" style="padding-bottom:0.5em;" />test caption</div>
 
 Examples of metadata typically found in the research context: Citation information, contact information, geographic locations, units of measurement, instruments and protocols, survey tool details, version information, etc.
 
