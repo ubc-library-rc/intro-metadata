@@ -9,7 +9,7 @@ Metadata is information that describes a resource (i.e. data about data). When u
 
 This workshop will provide an introduction to metadata.
 
-This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca). For more information about our [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at https://researchcommons.library.ubc.ca.
+This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca). For more information about our [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at [https://researchcommons.library.ubc.ca](https://researchcommons.library.ubc.ca).
 
 ## Goals of this Workshop
 
