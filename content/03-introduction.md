@@ -35,6 +35,8 @@ Metadata can also be subject-specific, e.g. biological organism information, ast
 
 UBC Library's [Open Collections](https://open.library.ubc.ca/) includes digital photos, books, newspapers, maps, videos, theses, research articles, and more, reflecting the research interests of the UBC community and beyond. All of these resources require metadata description to facilitate usage
 
+image here
+
 How is metadata organized?
 * *Elements/fields:* basic building blocks of metadata description (e.g. title, abstract, author)
 * *Standards:* guidelines for consistent description of a given type of resource
