@@ -44,15 +44,15 @@ Sometimes the metadata we are working with is in a format that might be a bit ch
 
 ### Schema specific editors and metadata collections
 
-Many standards maintain their own list of tools to aide implementation. To find a tool for your disciplinary use case take a look at the RDA (Research Data Alliance) Metadata Directory for a list: http://rd-alliance.github.io/metadata-directory/
+Many standards maintain their own list of tools to aide implementation. To find a tool for your disciplinary use case take a look at the [RDA (Research Data Alliance) Metadata Directory for a list](http://rd-alliance.github.io/metadata-directory/.
 
-To find a schema-specific metadata tool relevant to your work, take a look at this helpful comparison chart from Stanford: https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/metadata-tools-comparison
+To find a schema-specific metadata tool relevant to your work, take a look at this helpful [comparison chart from Stanford](https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/metadata-tools-comparison).
 
 ### Editing automated embedded metadata
 
 When you take a photo with your phone and open it on your computer you can already see a lot of information about it by default. Things like location, the time it was taken, and which device took it. This is Exif metadata which is an example of automatically assigned metadata. It is usually structured along standards (eg. ISO time and date standards) and persistent in the image file regardless of where you move it.
 
-<img src="images/embedded-metadata.png" alt="Embedded metadata example" width="510"/>
+<img src="images/embedded-metadata.png" alt="Embedded metadata example" width="200"/>
 
 That persistency doesn’t mean that you can’t edit it though. For our image example, Exif editors can change the time and date, providing false information. Generally speaking automatically generated metadata has a utility for later search functions and should be left alone. That said, one excellent reason that you may want to remove embedded automated metadata is over privacy concerns.
 
