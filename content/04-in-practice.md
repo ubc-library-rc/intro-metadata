@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadata in Practice
-nav_order: 4
+nav_order: 5
 ---
 # Metadata in practice
 

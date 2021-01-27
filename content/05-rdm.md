@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Data Management (RDM) and Metadata
-nav_order: 4
+nav_order: 6
 ---
 # Research Data Management (RDM) and Metadata
 
