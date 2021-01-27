@@ -22,17 +22,3 @@ Why is metadata important for research data? Metadata play a large role in the f
 FAIR: Findable, Accessible, Interoperable, Reusable
 
 “FAIR Guiding Principles for scientific data management and stewardship” - published in *Scientific Data*, 2016. [www.go-fair.org/fair-principles](https://www.go-fair.org/fair-principles/)
-
-## Readme files: a typical starting point for metadata creation
-
-In research, readme files are often a starting point for creating basic metadata. In order for the metadata to be effective for interpretation, there are best practices to keep in mind.
-
-Best practices for readme files (not comprehensive)
-* Create one file for each logical grouping of data - could be a single data file, or a dataset with multiple files that are related
-* Use a plain text file
-* If you are creating multiple readme files, use consistent formatting
-* Use date format YYYY-MM-DD or YYYY-MM-DDThh:mm:ss
-* Use keywords appropriate to your discipline - often controlled vocabularies or thesauri are available for discipline specific keywords
-
-For more information, explore [UBC readme guidance](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf) and [Cornell University readme template](https://cornell.app.box.com/v/ReadmeTemplate).
-{: .note}

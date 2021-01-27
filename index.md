@@ -25,9 +25,8 @@ At the end of this workshop, participants will be able to:
 | 0:00 | Welcome and using Zoom|
 | 0:05 | Introduction |  
 | 0:30 | Metadata in practice and standards |
-| 0:45 | Metadata in RDM |
-| 1:00 | Metadata tools |
-| 1:15 | Discussion and wrap-up |
+| 0:45 | Metadata in RDM and tools |
+| 1:00 | Discussion and questions | 
 
 ## Resources
 

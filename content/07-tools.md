@@ -16,7 +16,18 @@ Regardless of what kind of metadata your project is engaging with it needs to be
 ## Creating basic metadata
 Your best tool is a strong plan and policies around the creation of metadata that your team will follow. This begins with a well structures ReadMe file (a text file that describes your data and reasoning behind how it is organized) and a likely a codebook (a file that defines the fields that you are collecting). In a ReadMe file you might indicate which information is coming from tools that you are using and which is being collected manually. You may also want to note any important cleaning steps you took to augment the data collected and where a viewer of your work could learn more about your process.
 
-While aimed at software development, the “[make a readme resource](https://www.makeareadme.com/)” is useful to explore as well as [readme guidance from UBC](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf).
+### Readme files: a typical starting point for metadata creation
+
+In research, readme files are often a starting point for creating basic metadata. In order for the metadata to be effective for interpretation, there are best practices to keep in mind.
+
+Best practices for readme files (not comprehensive)
+* Create one file for each logical grouping of data - could be a single data file, or a dataset with multiple files that are related
+* Use a plain text file
+* If you are creating multiple readme files, use consistent formatting
+* Use date format YYYY-MM-DD or YYYY-MM-DDThh:mm:ss
+* Use keywords appropriate to your discipline - often controlled vocabularies or thesauri are available for discipline specific keywords
+
+For more information, explore [UBC readme guidance](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf) and [Cornell University readme template](https://cornell.app.box.com/v/ReadmeTemplate). While aimed at software development, the “[make a readme resource](https://www.makeareadme.com/)” is also a useful resource.
 {: .note}
 
 ## Manual metadata creation
