@@ -104,17 +104,40 @@ Schema can vary in their complexity:
 
 Generally, you should be able to find a metadata schema that suits your research. Discuss with colleagues in your research area or those who are doing similar work; they may be able to guide you to preferred standards (and share any lessons learned). Keep the user’s perspective in mind - it should make sense for your intended users.
 
-Having a metadata schema with standards set-up at the beginning of the project, agreement on those standards, and known responsibility/accountability in the project team is very important. You should take into consideration what the end goals of the project are. Certain kinds of metadata analysis and manipulation will require metadata to be input in a standardized way. Consistent entry at an appropriate level of detail for varying uses is important.
-
-## More on metadata in practice
-It’s important to consider the *accuracy*, *completeness*, *consistency*, and *interoperability* of your metadata, all of which will affect its future discovery and use.
-
+## Repository deposit
 If you’re planning to deposit your research to a UBC Library repository, it’s highly recommended you connect with the unit at the beginning of your project, so we can provide guidance in schemas, standards, and preparation of your research for submission.
 
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
 
 Other units at the Library or across UBC may be consulted, depending on the needs and nature of the project. Your [Subject Librarian](https://directory.library.ubc.ca/subjectlibrarians/) may also be able to provide guidance on metadata schemas used in your field.
+
+## Summary
+Planning for metadata is part of planning for the whole research lifecycle. Many metadata considerations and choices can be made at multiple stages of the research lifecycle (before grant application, before data production/collection, before data deposit, and throughout).
+
+The potential metadata planning process for your research project could include the following (it may not involve only these steps, and some steps could happen simultaneously and be on an ongoing basis):
+
+1. Discuss the goals for long-term access and use of the project outputs with your research team.
+* What format(s) will your research project data take?  How should they be organized?
+* What information will improve discoverability and understanding of the data?  What information cannot be determined by the data alone?
+* What do users (with varying levels of expertise) need to know to understand, access, and use the data?
+* Consensus-building activities with the project team early on can be very helpful. They can also improve the team's awareness and understanding of metadata impact.
+
+2. Determine existing metadata schemas and standards for your discipline(s), and which may be applicable to your type of research.
+* Does an existing schema fit the goals of your project?  Are customizations and/or additions necessary?
+* Talk to your colleagues and those who are doing similar work. Keep the project goals and potential users’ perspectives in mind.
+
+3. Determine roles and responsibilities of research team members in understanding, creating, and managing metadata.
+* Where can metadata creation and quality control be integrated into your project workflows?
+* Written decisions and guidelines for reference throughout the project can be helpful tools.
+* What metadata is created manually or automatically, and what kind of review and/or transformation will it require?
+
+4. Connect with UBC Library (early on, potentially even before grant submission), who can provide support, guidance, and considerations on various stages of metadata preparation for your research.
+* If you plan to deposit your research in a UBC Library repository, this is especially valuable.  
+
+It’s important to consider the *accuracy*, *completeness*, *consistency*, and *interoperability* of your metadata, all of which will affect its future discovery and use.
+
+Having a metadata schema with standards set-up at the beginning of the project, agreement on those standards, and known responsibility/accountability in the project team is very important. You should take into consideration what the end goals of the project are. Certain kinds of metadata analysis and manipulation will require metadata to be input in a standardized way. Consistent entry at an appropriate level of detail for varying uses is important.
 
 ## Resources
 * [Digital Curation Centre (DCC)’s list of metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
