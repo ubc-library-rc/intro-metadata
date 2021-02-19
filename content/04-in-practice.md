@@ -69,7 +69,7 @@ ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/
 
 * Here’s a screenshot from the U.S. Geological Survey. It uses ISO 19115, also expressed here in XML, and you can see it’s hierarchical as well. There are relationships between the elements that become apparent when you see how they are nested. Additionally, some elements can be repeated in different contexts.
 
-Which metadata schema is right for my project and ourputs/resources? Schema can vary in their complexity:
+Which metadata schema is right for my project and outputs/resources? Schema can vary in their complexity:
 
 <table>
 <tr>
