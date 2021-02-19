@@ -69,9 +69,7 @@ ISO 19115 example ([U.S. Geological Survey](https://www.sciencebase.gov/catalog/
 
 * Here’s a screenshot from the U.S. Geological Survey. It uses ISO 19115, also expressed here in XML, and you can see it’s hierarchical as well. There are relationships between the elements that become apparent when you see how they are nested. Additionally, some elements can be repeated in different contexts.
 
-## Which metadata schema is right for my project and ourputs/resources?
-
-Schema can vary in their complexity:
+Which metadata schema is right for my project and ourputs/resources? Schema can vary in their complexity:
 
 <table>
 <tr>
@@ -96,8 +94,6 @@ Schema can vary in their complexity:
 </table>
 
 Generally, you should be able to find a metadata schema that suits your research. Discuss with colleagues in your research area or those who are doing similar work; they may be able to guide you to preferred standards (and share any lessons learned). Keep the user’s perspective in mind - it should make sense for your intended users.
-
-## More on metadata schemas and standards
 
 As we’ve seen with some examples, metadata schemas can be relatively simple or more complex with hierarchies and repeatable elements. This standardized metadata is typically stored in file formats like xml, json, csv. There are also software tools that can be used to create metadata that adheres to a given schema/standard, or express it in a given file format.
 
