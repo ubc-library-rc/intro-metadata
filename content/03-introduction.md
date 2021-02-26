@@ -46,7 +46,7 @@ How is metadata organized?
 * *Schemas:* sets of metadata elements within a context (e.g. for a specific repository or project)
 * *Controlled vocabularies:* standardized and organized sets of terms that provide consistent description. Often used for metadata elements
 
-* Controlled vocabularies may describe names of people, corporate names, geographic names, topics, concepts, or languages
+Controlled vocabularies may describe names of people, corporate names, geographic names, topics, concepts, or languages
 {: .note}
 
 Types of controlled vocabularies
