@@ -47,7 +47,7 @@ How is metadata organized?
 * *Controlled vocabularies:* standardized and organized sets of terms that provide consistent description. Often used for metadata elements
 
 Controlled vocabularies may describe names of people, corporate names, geographic names, topics, concepts, or languages
-{: .note}
+{ .note}
 
 Types of controlled vocabularies
 * *Taxonomies:* identify hierarchical relationships among concepts within specific domains
