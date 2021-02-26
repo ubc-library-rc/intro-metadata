@@ -28,7 +28,7 @@ A metadata schema establishes a common way of structuring the metadata, and incl
 Standards provide guidance in how to populate elements within a schema.
 * What pieces of information goes where?  
 * How should the information be formatted (e.g. dates, names)?
-* Are there standardized terms (e.g. controlled vocabulary, thesauri) that should be used to populate an element?
+* Are there standardized terms (e.g. controlled vocabulary) that should be used to populate an element?
 
 Research projects or databases can adapt one or more schemas and/or standards, and then create a custom schema based on those chosen.
 
