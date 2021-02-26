@@ -46,6 +46,16 @@ How is metadata organized?
 * *Schemas:* sets of metadata elements within a context (e.g. for a specific repository or project)
 * *Controlled vocabularies:* organized arrangements of terms to allow for consistent description. Often used for metadata elements
 
+More on controlled vocabularies
+* Standardized and organized sets of terms
+* Used when creating metadata to improve consistency and discovery capability
+* May describe names of people, corporate names, geographic names, topics, concepts, languages, etc
+
+Controlled vocabulary structures
+* *Taxonomies:* identify hierarchical relationships among concepts within specific domains
+* *Thesauri:* hierarchical structures that also includes preferred terms and shows basic relationship between concepts (Library of Congress Subject Headings list subject headings for use in bibliography records)
+* *Ontologies:* hierarchical structure that is even more regimented - describes clases of data and the network of relationships between these classes (Gene Ontology describes gene information across all species)
+
 Different types of metadata
 * *Descriptive* metadata is basic information about the resource (title, author, description, etc.)
 * *Structural* metadata is information about the composition of the resource (file format, relation to other data, etc.)
