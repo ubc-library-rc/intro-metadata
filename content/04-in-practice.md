@@ -17,7 +17,7 @@ Additionally, sometimes it makes sense to create free text “readme” style me
 
 Metadata can be generated as part of an automated process, or be created manually. Research projects often involve a mix of both, depending on the content and destined platforms for deposit.
 
-It’s highly recommended that at the beginning of your research project, you think about where your research will be stored and made accessible. If it’s destined for something like a repository, there are considerations that should be taken in both content and metadata creation. The purpose of the research can help determine what metadata is necessary for understanding, using, and reproducing the work.
+It’s highly recommended that in the early stages of your research project, you think about where your research will be stored and made accessible. If it’s destined for something like a repository, there are considerations that should be taken in both content and metadata creation. The purpose of the research can help determine what metadata is necessary for understanding, using, and reproducing the work.
 
 ## Metadata schemas and standards
 What are metadata schemas and standards? Communities create, manage, and use different types of information and resources in different ways. Within and across communities, there needs to be some consistency in order for the metadata to be understandable (by both people and machines) ([University of Texas Libraries](https://guides.lib.utexas.edu/metadata-basics/standards)).
@@ -101,7 +101,7 @@ Many databases and platforms allow for metadata export in other schemas and form
 * Crosswalking is the process of translating elements from one metadata schema to another. This facilitates and allows interoperability and harvesting across multiple platforms and systems, increasing research discovery and use. For example, crosswalking metadata facilitates record harvest from Canadian repositories to Canada’s [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca).
 
 ## Repository deposit
-If you’re planning to deposit your research to a UBC Library repository, it’s highly recommended you connect with the unit at the beginning of your project, so we can provide guidance in schemas, standards, and preparation of your research for submission.
+If you’re planning to deposit your research to a UBC Library repository, it’s highly recommended you connect with the unit in the early stages of your project, so we can provide guidance in schemas, standards, and preparation of your research for submission.
 
 * [UBC Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc): UBC’s research data repository for UBC faculty, students and staff.
 * [cIRcle, UBC’s digital repository](http://circle.ubc.ca/): UBC's open access digital repository for published and unpublished material created by the UBC community and its partners.
