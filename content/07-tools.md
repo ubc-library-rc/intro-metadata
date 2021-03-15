@@ -55,7 +55,7 @@ Sometimes the metadata we are working with is in a format that might be a bit ch
 
 ### Schema specific editors and metadata collections
 
-Many standards maintain their own list of tools to aide implementation. To find a tool for your disciplinary use case take a look at the [RDA (Research Data Alliance) Metadata Directory for a list](http://rd-alliance.github.io/metadata-directory/.
+Many standards maintain their own list of tools to aide implementation. To find a tool for your disciplinary use case take a look at the [RDA (Research Data Alliance) Metadata Directory for a list](http://rd-alliance.github.io/metadata-directory/).
 
 To find a schema-specific metadata tool relevant to your work, take a look at this helpful [comparison chart from Stanford](https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/metadata-tools-comparison).
 
